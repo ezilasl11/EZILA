@@ -1,6 +1,6 @@
 # EZILA
 # Hey, I am Ezila <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
-<a href="https://t.me/Darkridersslks"><img align='centre' src='https://telegra.ph/file/f1d08ceb6482cfe853767.jpg' width='500"'> </a>
+<a href="https://t.me/Darkridersslks"><img align='centre' src='https://telegra.ph/file/0e7b0ba83bfb76018f36a.jpg' width='500"'> </a>
 - 👋 Hi, I’m Ezila
 - 👀 I’m interested in ...bot
 - 🌱 I’m currently learning ...python
